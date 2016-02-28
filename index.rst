@@ -8,10 +8,21 @@ Welcome to alcasar_documentation's documentation!
 
 Contents: uuuguu  bhuuy uh uyby
 
+Installation:
+
 .. toctree::
    :maxdepth: 2
+   :glob:
 
-   intro
+   Installation/*
+
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   Exploitation/*
+
 
 
 Indices and tables
