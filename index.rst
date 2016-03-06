@@ -3,12 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to alcasar_documentation's documentation!
-=================================================
+Bienvenue sur la documentation d'Alcasar
+========================================
 
-Contents: uuuguu  bhuuy uh uyby
-
-Installation:
 
 .. toctree::
    :maxdepth: 2
@@ -22,12 +19,3 @@ Installation:
    :glob:
 
    Exploitation/*
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
