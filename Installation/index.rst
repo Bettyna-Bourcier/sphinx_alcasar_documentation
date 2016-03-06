@@ -4,6 +4,7 @@ Installation
 
 Introduction
 ============
+Edit test en local
 
 Ce document décrit la procédure d’installation du portail ALCASAR. Il est complété par trois autres documents : le document de présentation,
 le document d’exploitation et la documentation technique.
